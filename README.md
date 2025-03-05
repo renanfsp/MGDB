@@ -50,6 +50,8 @@ Alguns parametros comuns
 
 ## Adicionando Rotas
 
+https://developer.android.com/develop/ui/compose/navigation?hl=pt-br
+
 ```
 @Composable
 fun Navigator() {
